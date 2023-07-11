@@ -24,7 +24,7 @@ Follow SourceGoose
 Or You Can Join Us!
 </h3>
 
- [<img height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](none-add-link-here-if-published)<!--Discord--> 
+ [<img height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/3Eg6wSgq)<!--Discord--> 
 <hr>
 <h3>
 Our Platform
