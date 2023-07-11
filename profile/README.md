@@ -17,7 +17,7 @@ Join us on our quest to bring history to life and explore new realms of gaming. 
 
 <p align="center">
  
-  [<img src="https://github.com/SourceGoose/.github/blob/main/profile/finelogo/demo.gif">](none-add-link-here-if-published)<!--Logo-->
+  [<img src="https://github.com/SourceGoose/.github/blob/main/profile/finelogo/demo-rigid.gif">](none-add-link-here-if-published)<!--Logo-->
  
 </p>
 
