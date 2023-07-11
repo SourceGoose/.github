@@ -14,6 +14,14 @@ At SourceGoose, we value innovation, creativity, and attention to detail. We com
 
 Join us on our quest to bring history to life and explore new realms of gaming. SourceGoose invites players to embark on epic adventures, discover hidden treasures, and rewrite the course of history. Get ready to immerse yourself in captivating narratives, breathtaking visuals, and thrilling gameplay as we redefine the boundaries of gaming excellence.
 </p>
+
+<p align="center">
+ 
+  [<img src="https://github.com/SourceGoose/.github/blob/main/profile/finelogo/demo.gif">](none-add-link-here-if-published)<!--Logo-->
+ 
+</p>
+
+
 <h1>
 Follow SourceGoose
 </h1>
