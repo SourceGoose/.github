@@ -42,7 +42,7 @@ Our Platform
 <h3>
 What Engine we used?
 </h3>
-<p>We are currently developing our own engine, but for now, we are temporarily using some other engine.</p>
+<p>We are currently developing our own engine, but for now, we are temporarily using this.</p>
 
 [<img height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">](https://unity.com/)<!--Unity--> [<img height="30" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">](https://www.unrealengine.com/en-US)<!--UnrealEngine--> 
 
