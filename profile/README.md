@@ -1,3 +1,4 @@
+
 <h1>
 SourceGoose Entertainment
 </h1>
@@ -14,27 +15,32 @@ At SourceGoose, we value innovation, creativity, and attention to detail. We com
 Join us on our quest to bring history to life and explore new realms of gaming. SourceGoose invites players to embark on epic adventures, discover hidden treasures, and rewrite the course of history. Get ready to immerse yourself in captivating narratives, breathtaking visuals, and thrilling gameplay as we redefine the boundaries of gaming excellence.
 </p>
 <h1>
-🚀Visit SourceGoose
+Follow SourceGoose On
 </h1>
 
- [<img height="30" src="https://github.com/SourceGoose/.github/blob/main/profile/finelogo/sg-logo-web-visit.png">](none-add-link-here-if-published)
-<!--Logo-->
-
+ [<img height="40" src="https://github.com/SourceGoose/.github/blob/main/profile/finelogo/sg-logo-web-visit.png">](none-add-link-here-if-published)<!--Logo--> [<img height="40" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@SourceGoose/featured)<!--YT--> [<img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/GooseSourc97751)<!--Twitter--> [<img height="40" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](no-content-yet)<!--FB--> [<img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](no-content-yet)<!--LinkedIN--> [<img height="40" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">](no-content-yet)<!--Patreon-->
 <hr>
-<h1>
-🚀Or You Can Join Us!
-</h1>
+<h3>
+Or You Can Join Us!
+</h3>
 
- [<img height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](none-add-link-here-if-published)
-<!--Discord-->
-
-
-
+ [<img height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](none-add-link-here-if-published)<!--Discord--> 
 <hr>
+<h3>
+Our Platform
+</h3>
+
+[<img height="30" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](none-add-link-here-if-published)<!--Steam--> 
+<h3>
+What Engine we used?
+</h3>
+<p>We are currently developing our own engine, but for now, we are temporarily using some other engine.</p>
+
+[<img height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">](none-add-link-here-if-published)<!--Unity--> [<img height="30" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">](none-add-link-here-if-published)<!--UnrealEngine--> 
 
 
 <h3>
-<img src="https://c.tenor.com/kVnb-73M6coAAAAi/memes-meme.gif" width="60"> <em><b>🚀You are good to go!  </b>
+<img src="https://c.tenor.com/kVnb-73M6coAAAAi/memes-meme.gif" width="60"> <em><b>🚀See ya!🚀  </b>
   <img src="https://c.tenor.com/kVnb-73M6coAAAAi/memes-meme.gif" width="60">
 
 </h3>
